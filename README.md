@@ -2,7 +2,7 @@
 
 This project involves building a content-based movie recommendation system using machine learning techniques. The goal is to suggest movies that are similar to a given movie based on various features like genres, keywords, cast, and crew.
 
-✅ Steps followed in the project:
+## Steps followed in the project:
 
 Data Loading:
 
@@ -29,7 +29,7 @@ Recommendation Function:
 
 A function named recommend() was created, which takes a movie name as input and returns the top 5 most similar movies based on cosine similarity.
 
-✅ Conclusion :
+# Conclusion :
 
 In this project, we built a smart system that can suggest movies similar to the one you like. We did this by looking at things like the movie's genre, keywords, cast, and director. We cleaned this data, turned it into numbers using machine learning tools, and calculated how similar the movies are to each other. The final result is a working movie recommendation system that gives good suggestions based on what a user searches for. This kind of model is helpful in apps like Netflix or IMDb to improve user experience.
 
